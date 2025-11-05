@@ -126,7 +126,6 @@ public class Armour extends Equippable {
             super.getModifierLevel() == rhsItem.getModifierLevel() &&
             super.getElement().equals(rhsItem.getElement()) &&
             this.defense == rhsItem.defense;
-
     }
 
     /**
